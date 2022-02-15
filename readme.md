@@ -40,5 +40,5 @@ else:
 
 ## Functions
 
-### generate_password()
-returns the password in a string format
+>### generate_password()
+>returns the password in a string format
