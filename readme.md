@@ -1,6 +1,7 @@
 # Code
 
 if you want to use this in your application then just import the generator class from classes.generator
+(Codded in python: 3.9.5)
 
 ## Code example
 
